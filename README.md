@@ -1,12 +1,13 @@
 
-www.vyos-users-jp 公開リポジトリ
+www.vyos-users.jp 公開リポジトリ
 =======================
 
-これは[www.vyos-users.jp][http://vyos-users.jp/]のHTMLページです。
+これは[www.vyos-users.jp](http://vyos-users.jp/)のHTMLページです。
 
 [Pelican](http://docs.getpelican.com/)を使って生成および公開されています。
+
 このページを編集するにはソースリポジトリを確認してください。
-[vyos-users-jp.github.io-source](https://github.com/vyos-users-jp/vyos-users-jp.github.io-source)
+[vyos-users-jp / vyos-users-jp.github.io-source](https://github.com/vyos-users-jp/vyos-users-jp.github.io-source)
 
 
 ## ライセンス
