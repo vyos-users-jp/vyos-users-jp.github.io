@@ -13,15 +13,17 @@
     <!-- Open Graph tags -->
             <meta property="og:type" content="article"/>
             <meta property="og:title" content="Home"/>
-            <meta property="og:url" content="/index.html"/>
+            <meta property="og:url" content="http://www.vyos-users.jp/index.html"/>
 
     <!-- Bootstrap -->
-        <link rel="stylesheet" href="/theme/css/bootstrap.min.css" type="text/css"/>
-    <link href="/theme/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="http://www.vyos-users.jp/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="http://www.vyos-users.jp/theme/css/font-awesome.min.css" rel="stylesheet">
 
-    <link href="/theme/css/pygments/native.css" rel="stylesheet">
-    <link rel="stylesheet" href="/theme/css/style.css" type="text/css"/>
+    <link href="http://www.vyos-users.jp/theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://www.vyos-users.jp/theme/css/style.css" type="text/css"/>
 
+        <link href="http://www.vyos-users.jp/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="vyos-users.jp ATOM Feed"/>
 
     <!-- GitHub Fork Ribbon -->
     <link rel="stylesheet" href="/theme/css/gh-fork-ribbon.css">
@@ -46,7 +48,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a href="/" class="navbar-brand">
+            <a href="http://www.vyos-users.jp/" class="navbar-brand">
 vyos-users.jp            </a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
@@ -77,6 +79,7 @@ vyos-users.jp            </a>
 <ul>
 <li>本家: <a href="http://mirror.vyos.net/iso/release/">http://mirror.vyos.net/iso/release/</a></li>
 <li>日本のミラー: <a href="http://ftp.tsukuba.wide.ad.jp/software/vyos/iso/release/">http://ftp.tsukuba.wide.ad.jp/software/vyos/iso/release/</a></li>
+<li>現在の最新版は1.0.3です</li>
 </ul>
 <h2>情報源</h2>
 <ul>
@@ -85,6 +88,7 @@ vyos-users.jp            </a>
 <ul>
 <li><a href="http://wiki.vyos-users.jp">Wiki</a></li>
 <li><a href="http://groups.google.com/d/forum/vyos-users-jp">Google Group - vyos-users-jp</a></li>
+<li><a href="https://webchat.freenode.net/?channels=#vyosjp">IRC (#vyosjp on freenode)</a></li>
 <li><a href="https://twitter.com/vyosjp">Twitter</a><ul>
 <li><a href="https://twitter.com/search?q=%23vyosjp&amp;src=typd&amp;f=realtime">ハッシュタグ #vyosjp</a></li>
 </ul>
@@ -96,8 +100,12 @@ vyos-users.jp            </a>
 <li><a href="https://gist.github.com/hiroyuki-sato/9972631">VyOS build-iso環境の作り方</a></li>
 </ul>
 </li>
-<li>スライド<ul>
+<li>発表スライド<ul>
 <li><a href="http://www.slideshare.net/higebu/vyatta-users-meeting-spring-2014-vyos">VYATTA USERS MEETING Spring 2014 VyOS</a></li>
+</ul>
+</li>
+<li>設定例<ul>
+<li><a href="http://www.slideshare.net/naotomatsumoto/unbreakable-vpntunnelingusingvyatta20140513v5">Unbreakable VPN using Vyatta/VyOS - HOW TO -</a></li>
 </ul>
 </li>
 </ul>
@@ -139,10 +147,26 @@ vyos-users.jp            </a>
 <script src="http://code.jquery.com/jquery.js"></script>
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="/theme/js/bootstrap.min.js"></script>
+<script src="http://www.vyos-users.jp/theme/js/bootstrap.min.js"></script>
 
 <!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
-<script src="/theme/js/respond.min.js"></script>
+<script src="http://www.vyos-users.jp/theme/js/respond.min.js"></script>
 
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-48893705-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
 </body>
 </html>
