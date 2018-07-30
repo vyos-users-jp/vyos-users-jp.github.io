@@ -1,0 +1,3 @@
+[submodule "themes/vyos-users-jp.github.io-theme"]
+	path = themes/vyos-users-jp.github.io-theme
+	url = https://github.com/vyos-users-jp/vyos-users-jp.github.io-theme.git
