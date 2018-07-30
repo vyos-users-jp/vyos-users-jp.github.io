@@ -34,8 +34,9 @@ VyOS とは
 コミュニティ
 ------
 
-* [Slack](http://slack.vyos.io/)
-    * #vyos-ja チャンネルが日本語用です。
+* Slack
+    * [新規登録](http://slack.vyos.io/)
+    * [#vyos-ja](https://vyos.slack.com/messages/CAMA2KAHG)
 * [Twitter](https://twitter.com/vyosjp)
     * [ハッシュタグ #vyosjp](https://twitter.com/search?q=%23vyosjp&src=typd&f=realtime)
 
