@@ -1,5 +1,7 @@
-www.vyos-users.jp ソースリポジトリ
+vyos-users.jp.github.io
 =======================
+
+[![Build Status](https://travis-ci.org/vyos-users-jp/vyos-users-jp.github.io.svg?branch=master)](https://travis-ci.org/vyos-users-jp/vyos-users-jp.github.io)
 
 * [www.vyos-users.jp](http://vyos-users.jp/)のソースおよび設定用リポジトリです。
 * [Pelican](http://docs.getpelican.com/)を利用しています。
