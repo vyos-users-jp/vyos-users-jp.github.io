@@ -1,5 +1,5 @@
 Title: Home
-Date: 2018-07-30 17:30:00
+Date: 2019-10-24 16:00:00
 URL: index.html
 save_as: index.html
 Author: vyos-users.jp
@@ -11,19 +11,26 @@ VyOS とは
 ---------
 
 * Vyatta からフォークしたオープンソースのネットワーク OS で、ソフトウェアベースのルーティング、ファイアウォール、VPNなどの機能を持っています。
-* 現在の最新版は [1.1.8](http://wiki.vyos-users.jp/1.1.0/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%88#1.1.8) です。
 * [公式サイト](https://vyos.io/)
 
 ダウンロード
 ------------
 
-* [安定版](https://downloads.vyos.io/?dir=release/1.1.8)
-* [開発版](https://downloads.vyos.io/?dir=rolling/current/amd64)
-* [開発版(仮想マシンイメージ)](https://dev.vyos.jp/vyos/images/) (非公式)
-* [開発版(Vagrant box)](https://app.vagrantup.com/vyos/boxes/current) (非公式)
+* [ローリングリリース](https://downloads.vyos.io/?dir=rolling/current/amd64)
+* [LTS(有償)](https://vyos.io/subscriptions/)
 
-ミーティング
--------
+マニュアル
+----------
+
+* http://docs.vyos.io/en/latest/
+
+ソースコード
+-------------
+
+* https://github.com/vyos/
+
+過去のミーティング
+------------------
 
 * [VyOS Users Meeting Japan #5](https://vyosjp.connpass.com/event/75477/) (2018/01/19)
 * [VyOS Users Meeting Japan #4](https://vyosjp.connpass.com/event/58658/) (2017/07/21)
