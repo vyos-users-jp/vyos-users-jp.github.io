@@ -22,12 +22,12 @@ VyOS とは
 マニュアル
 ----------
 
-* http://docs.vyos.io/en/latest/
+* [http://docs.vyos.io/en/latest/](http://docs.vyos.io/en/latest/)
 
 ソースコード
 -------------
 
-* https://github.com/vyos/
+* [https://github.com/vyos/](https://github.com/vyos/)
 
 過去のミーティング
 ------------------
