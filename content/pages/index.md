@@ -45,6 +45,7 @@ VyOS とは
     * [新規登録](http://slack.vyos.io/)
     * [#vyos-ja](https://vyos.slack.com/messages/CAMA2KAHG)
 * [Twitter](https://twitter.com/vyosjp)
+    * [Twitterコミュニティ](https://twitter.com/i/communities/1498101007733370880)
     * [ハッシュタグ #vyosjp](https://twitter.com/search?q=%23vyosjp&src=typd&f=realtime)
 
 その他
