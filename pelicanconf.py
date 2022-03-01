@@ -32,4 +32,4 @@ HIDE_SIDEBAR = True
 CC_LICENSE = 'by-nc-sa'
 
 DISPLAY_PAGES_ON_MENU = False
-MENUITEMS = [('Wiki', 'http://wiki.vyos-users.jp')]
+MENUITEMS = [('vyos.net', 'https://vyos.net/')]
