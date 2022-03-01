@@ -1,0 +1,12 @@
+{
+  "extends": [
+    "config:base",
+    ":automergeAll",
+    ":semanticCommits",
+    ":semanticPrefixChore"
+  ],
+  "prConcurrentLimit": 1,
+  "baseBranches": [
+    "source"
+  ]
+}
