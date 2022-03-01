@@ -18,6 +18,7 @@ VyOS とは
 
 * [ローリングリリース](https://vyos.net/get/nightly-builds/)
 * [LTS(有償)](https://vyos.io/subscriptions/software/)
+* [Vagrant Box](https://app.vagrantup.com/vyos/boxes/current)
 
 マニュアル
 ----------
