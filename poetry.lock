@@ -173,14 +173,14 @@ files = [
 
 [[package]]
 name = "pelican"
-version = "4.7.2"
+version = "4.8.0"
 description = "Static site generator supporting Markdown and reStructuredText"
 category = "main"
 optional = false
 python-versions = ">=3.6,<4.0"
 files = [
-    {file = "pelican-4.7.2-py3-none-any.whl", hash = "sha256:36b0ee11104102e988f051d148ec118efb0b254e3b5a5ff244258eabd5e4ac10"},
-    {file = "pelican-4.7.2.tar.gz", hash = "sha256:1cf11912811e053da9915265dbe72da570c63e25ae00ea01a616429458b33354"},
+    {file = "pelican-4.8.0-py3-none-any.whl", hash = "sha256:c80a81930f57f9b1a11c9ab5894ce1465dcda2028c9e4e3993cf9cbf2061a57d"},
+    {file = "pelican-4.8.0.tar.gz", hash = "sha256:6445c00cff2142a30592a2de046e5647b84a36c5a0cfafc0eba75abbabb2b4b1"},
 ]
 
 [package.dependencies]
